@@ -1,15 +1,26 @@
 Proyecto #2 Comparación de Rutas Metabólicas 
+
 IC-8022 Introducción a la Biología Molecular Computacional 
+
 Tecnológico de Costa Rica, Sede Central Cartago 
+
 Escuela de Computación, Ingeniería en Computación 
+
 I Semestre 2019 
-Prof. Ing. Esteban Arias Méndez 
-La comparación de rutas metabólicas es una operación importante hoy en día para el estudio de metabolismo aplicable en múltiples áreas de interés como medicina, agricultura, farmacia, biotecnología y otros. 
-INTRODUCCIÓN 
-Propósitos 
-➢ Aplicar conocimientos aprendidos sobre alineamiento y comparación en estructuras de datos más complejas a las lineales como las usadas hasta ahora. ➢ Poner en práctica la evaluación de algoritmos para su validación, uso y 
-pruebas. 
+
+Prof. Ing. Esteban Arias Méndez
+
+La comparación de rutas metabólicas es una operación importante hoy en día para el estudio de metabolismo aplicable en múltiples áreas de interés como medicina, agricultura, farmacia, biotecnología y otros.
+
+INTRODUCCIÓN
+
+Propósitos
+
+➢ Aplicar conocimientos aprendidos sobre alineamiento y comparación en estructuras de datos más complejas a las lineales como las usadas hasta ahora.
+➢ Poner en práctica la evaluación de algoritmos para su validación, uso y pruebas. 
+
 DESARROLLO 
+
 Utilizando los algoritmos propuestos por el profesor deberá evaluarlos para verificar su utilidad como mecanismo para comparar rutas metabólicas. 
 Se trabajará sólo sobre el Sistema Operativo Linux, usando solamente lenguajes C o Python. Se recomienda trabajar su código en módulos, funciones o procedimientos, incluso en varios archivos para facilitar el trabajo. Debe hacer uso del git de la Escuela de Computación para llevar todo el desarrollo de su proyecto: git.ec.tec.ac.cr 
 Este trabajo es para ser desarrollado por parejas de 2 personas máximo. 
